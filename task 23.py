@@ -1,4 +1,4 @@
-#  Using Selenium Automation and Action Chains do drag and drop operation of the White rectangular box into the Yellow rectangular box by visiting the given URL "https://jqueryui.com/droppable/"
+# Using Selenium Automation and action chains visit the given URL and do a drag and drop operation of the White rectangular box into the Yellow Rectangular box.
 from selenium import webdriver
 from webdriver_manager.firefox import GeckoDriverManager
 from selenium.webdriver.common.by import By
